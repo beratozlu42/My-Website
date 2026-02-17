@@ -1,4 +1,4 @@
-# 🚀 Yusuf Berat OZLU | Personal Portfolio
+# 🚀 Berat OZLU | Personal Portfolio
 
 <p align="center">
   <strong>Developing pixel-perfect web experiences.</strong>
